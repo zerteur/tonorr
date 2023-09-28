@@ -1,0 +1,9 @@
+twitch:
+  oauth_token: 'oauth:9j8earmqng77begt4smmixwi6yjo2s'
+  channel_name: 'zerteur'
+
+couchdb:
+  server_url: 'http://192.168.1.168:5984'
+  username: 'admin'
+  password: '?Kar!b4nAdmin?'
+  db_name: 'twitch_messages'
